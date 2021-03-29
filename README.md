@@ -1,5 +1,5 @@
 ScriptManagerFree is partially opensource see [here](https://github.com/ReleaseStandard/ScriptManager).  
-In this version API has been improved, you can expect great stability and additionnal features.  
+In this version API has been improved, you can expect great stability and additionnal features see [here](https://github.com/ReleaseStandard/ScriptManagerFree/wiki/API).  
 <br />
 <div style="display: flex;flex-direction: column;justify-content: space-between;">
  <img src="https://raw.githubusercontent.com/ReleaseStandard/ScriptManagerFree/main/1.jpg" width="30%" />
