@@ -19,6 +19,8 @@ In this version API has been improved, you can expect great stability and additi
 a=3;
 while [ "$a" -gt "0" ] ; do
 	notification show "Timer" "$a ...";
+	sleep 1;
+	let a=a-1;
 done
 notification show "Timer" "BOOM";
 ```
